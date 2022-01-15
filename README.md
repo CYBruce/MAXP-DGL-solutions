@@ -149,4 +149,7 @@ GAMLP面对图的边上有权重或者异构图不适用
 
 [官方baseline](https://github.com/dglai/maxp_baseline_model)
 
+[加强版baseline](https://github.com/CYBruce/MAXP-DGL-solution)
+
+
 
