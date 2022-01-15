@@ -143,7 +143,7 @@ k folds + 同构图异构图模型融合
 
 GAMLP面对图的边上有权重或者异构图不适用
 
-## 后排
+## 其他
 
 [Rank 7 solution](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb_lsc/MAG240M)
 
