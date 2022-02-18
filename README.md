@@ -76,9 +76,8 @@ drop edge, masked label prediction, k-folds validation
 
 ## Rank 3
 
-### 代码实现
+### [代码实现](https://github.com/minghaochen/2021-MAXP-DGL-GraphML-competition-intermediate-solution-)
 
-提供了一个[baseline](https://github.com/minghaochen/2021-MAXP-DGL-GraphML-competition-intermediate-solution-)思路
 
 ### 数据处理
 
